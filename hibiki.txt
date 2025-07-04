@@ -5,3 +5,5 @@
 いい感じのドイツ語ないかなー
 
 hibiki branchで加えた変更
+
+main branchで加えた変更
