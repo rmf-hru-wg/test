@@ -6,4 +6,4 @@
 
 hibiki branchで加えた変更
 
-main branchで加えた変更
+hibiki branchで加えた変更
